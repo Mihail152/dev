@@ -1,0 +1,10 @@
+# Ignore everything in the root
+/*
+
+# Do not ignore the .gitignore file and wp-content directory
+!.gitignore
+!wp-content/
+
+# Inside wp-content, ignore everything
+wp-content/*
+!wp-content/themes/
