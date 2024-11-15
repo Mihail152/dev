@@ -3,6 +3,7 @@
 
 # Do not ignore the .gitignore file and wp-content directory
 !.gitignore
+!.ftpignore
 !wp-content/
 
 # Inside wp-content, ignore everything
