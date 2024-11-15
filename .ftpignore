@@ -1,4 +1,5 @@
 .github/
 .gitignore
+.ftpignore
 node_modules/
 README.md
